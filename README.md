@@ -7,6 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://cosmo-folio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinandan1010)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinandan.a1010@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./Abhinandan_Resume.pdf)
 
 </div>
 
@@ -57,3 +58,11 @@ I am a versatile Software Engineer and recent MCA graduate (PES University) with
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
+---
+
+### ?? Certifications & Achievements
+
+- ?? **Oracle Agentic AI Foundations Associate** – Oracle (Jul 2026)
+- ?? **Full Stack Web Development** – Internshala (2022)
+- ?? **Advanced Python Programming** – Mega Infoware (2022)
+- ?? **University Volleyball Athlete** – Represented Bangalore University (2022–2023) & PES University (2024–2026)
