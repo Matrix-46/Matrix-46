@@ -2,9 +2,11 @@
   
 # Hi there, I'm Abhinandan A! 👋
 
-**Curious. Consistent. Coding.** 
+**Software Engineer | Full Stack Developer | MCA Graduate** 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://cosmo-folio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinandan1010)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinandan.a1010@gmail.com)
 
 </div>
 
@@ -12,17 +14,46 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building responsive, impactful applications.
-- 🌱 I’m currently expanding my skills in modern tech stacks.
-- 💬 Ask me about **Web Development, UI/UX, or my recent projects!**
-- 📫 How to reach me: Check out my [Cosmo Folio](https://cosmo-folio.netlify.app)
+I am a versatile Software Engineer and recent MCA graduate (PES University) with hands-on experience building responsive frontend interfaces, reliable backend systems, and full-stack web applications. 
 
-### 🛠️ My Tech Stack
+- 💼 Recently completed a **Full Stack Developer Internship** at Design Esthetics, where I led the development of a containerized Flight School Management System.
+- 🔭 Currently seeking entry-level software engineering roles to contribute my problem-solving and full-stack skills.
+- 💡 Core focus: **MERN Stack, Python/Flask, REST API Design, and Database Management.**
+- 📫 Let's connect: [abhinandan.a1010@gmail.com](mailto:abhinandan.a1010@gmail.com)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+---
+
+### 🚀 Featured Projects & Experience
+
+*Because GitHub only allows 6 pinned repositories, here are my top highlights directly from my resume:*
+
+| Project | Tech Stack | Description | Links |
+|---|---|---|---|
+| **Flight School System** | `React`, `Node.js`, `Docker`, `Prisma` | *(Internship)* Built admin & student modules, designed REST APIs, managed state with Zustand, and containerized via Docker. | [View Code](https://github.com/Ankur5529/flight-school-management-system) |
+| **Fit-Guide** | `React`, `Flask`, `KNN ML` | Health platform with BMI analytics & ML-based 7-day diet recommendation engine. | [Live Demo](https://fitguide-frontend-g06v.onrender.com) • [Code](https://github.com/Matrix-46/Fit-Guide) |
+| **Task-Flow** | `MERN Stack` | Project management platform with REST API design and real-time sprint tracking. | [Live Demo](https://task-flow-six-gold.vercel.app) • [Code](https://github.com/Matrix-46/Task-Flow) |
+| **Cart-Deal** | `PHP`, `MySQL` | Full-stack e-commerce application featuring an admin dashboard and inventory management. | [Live Demo](https://cart-deal.gt.tc) • [Code](https://github.com/Matrix-46/Cart-Deal) |
+
+---
+
+### 🛠️ Technical Arsenal
+
+**Languages:** 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**Frontend & Backend:** 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Databases & DevOps:** 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
