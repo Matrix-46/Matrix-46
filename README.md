@@ -19,7 +19,7 @@ I am a versatile Software Engineer and recent MCA graduate (PES University) with
 
 - 💼 Recently completed a **Full Stack Developer Internship** at Design Esthetics, where I led the development of a containerized Flight School Management System.
 - 🔭 Currently seeking entry-level software engineering roles to contribute my problem-solving and full-stack skills.
-- 💡 Core focus: **MERN Stack, Python/Flask, REST API Design, and Database Management.**
+- 💡 Core focus: **MERN Stack, Python/Flask, AI/ML (KNN/CNN), Cloud (AWS/Docker), and Cyber Security.**
 - 📫 Let's connect: [abhinandan.a1010@gmail.com](mailto:abhinandan.a1010@gmail.com)
 
 ---
@@ -44,20 +44,32 @@ I am a versatile Software Engineer and recent MCA graduate (PES University) with
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **Frontend & Backend:** 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-**Databases & DevOps:** 
+**AI, Security & Cloud:**
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-(CNN/RNN)-black?style=flat)
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-Burp/Nmap-red?style=flat&logo=kalilinux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EC2/S3/RDS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+**Databases & Core CS:** 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat&logo=linux&logoColor=black)
+![Agile](https://img.shields.io/badge/Agile_&_UML-0052CC?style=flat&logo=jira&logoColor=white)
 ---
 
 ### 🏆 Certifications & Achievements
