@@ -60,9 +60,9 @@ I am a versatile Software Engineer and recent MCA graduate (PES University) with
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 ---
 
-### ?? Certifications & Achievements
+### ğŸ† Certifications & Achievements
 
-- ?? **Oracle Agentic AI Foundations Associate** – Oracle (Jul 2026)
-- ?? **Full Stack Web Development** – Internshala (2022)
-- ?? **Advanced Python Programming** – Mega Infoware (2022)
-- ?? **University Volleyball Athlete** – Represented Bangalore University (2022–2023) & PES University (2024–2026)
+- ğŸ¥‡ **Oracle Agentic AI Foundations Associate** â€“ Oracle (Jul 2026)
+- ğŸ’» **Full Stack Web Development** â€“ Internshala (2022)
+- ğŸ **Advanced Python Programming** â€“ Mega Infoware (2022)
+- ğŸ **University Volleyball Athlete** â€“ Represented Bangalore University (2022â€“2023) & PES University (2024â€“2026)
